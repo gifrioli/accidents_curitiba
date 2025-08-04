@@ -1,4 +1,4 @@
-# Don’t Challenge Buses in Curitiba: 
+# Don’t Challenge Buses in Curitiba
 Cyclist and pedestrian accidents on exclusive public transport streets ✍️
 
 Project 3, Lede Program for Data Journalism 2025 at Columbia
